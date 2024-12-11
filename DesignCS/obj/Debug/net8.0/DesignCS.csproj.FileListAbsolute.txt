@@ -12,3 +12,4 @@
 /Users/shabbirpatheria/dev/DesignCS/DesignCS/obj/Debug/net8.0/DesignCS.pdb
 /Users/shabbirpatheria/dev/DesignCS/DesignCS/obj/Debug/net8.0/DesignCS.genruntimeconfig.cache
 /Users/shabbirpatheria/dev/DesignCS/DesignCS/obj/Debug/net8.0/ref/DesignCS.dll
+/Users/shabbirpatheria/dev/DesignCS/DesignCS/obj/Debug/net8.0/DesignCS.sourcelink.json
