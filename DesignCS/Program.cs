@@ -1,7 +1,6 @@
-﻿// Coupling
+﻿//Composition involves creating complex objects by combini
 
-using DesignCS.src.OopPrinciples.Coupling;
-using DesignCS.src.OopPrinciples.Polymorphism;
+using DesignCS.src.OopPrinciples.Composition;
 
-var order = new Order(new SmsSender());
-order.PlaceOrder();
+Car car = new Car();
+car.StartCar();
